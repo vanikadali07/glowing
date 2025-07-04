@@ -24,9 +24,10 @@ For Task 5, I designed a Glowing Beauty Website 💖 — a visually appealing an
 
 💻 Project Links:
 
-🔗 Live Demo: https://github.com/vanikadali07/glowing
+🔗 Live Demo: https://vanikadali07.github.io/glowing/
 
-📂 GitHub Repo: https://lnkd.in/g8X8DFdQ
+
+📂 GitHub Repo: https://github.com/vanikadali07/glowing
 
 This project helped me polish my UI skills by focusing entirely on visual storytelling and clean semantic frontend code. It was a creative journey of turning a simple layout into a glowing, immersive web experience.
 
